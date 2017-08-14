@@ -51,6 +51,26 @@ Lastly, run the program by writing Python log.py in your terminal
 You should now have received a textfile containing the information!
 ```
 
+```
+The output should look something like this:
+
+
+What are the most popular three articles of all time?
+Candidate is jerk, alleges rival - 338647 Views
+Bears love berries, alleges bear - 253801 Views
+Bad things gone, say good people - 170098 Views
+
+Who are the most popular article authors of all time?
+Ursula La Multa - 507594 Views
+Rudolf von Treppenwitz - 423457 Views
+Anonymous Contributor - 170098 Views
+Markoff Chaney - 84557 Views
+
+On which days did more than 1% of requests lead to errors?
+2016-07-17 - 2.0% Errors
+```
+
+
 ## License
 
 This project is licensed under the MIT License
